@@ -3,6 +3,7 @@ package org.demo.util;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
+import java.util.Optional;
 
 import org.demo.entity.User;
 
@@ -10,6 +11,9 @@ public class UserUtil {
 
 	private static final Long currentdate = 1631627364649L;
 
+	public static Date getCurrentDate() {
+		return  new Date(currentdate);
+	}
 	public static User getUser() {
 		User user = new User(101, "subbu", "singanamala", 516127, new Date(currentdate), new Date(currentdate));
 		return user;

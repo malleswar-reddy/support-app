@@ -28,11 +28,11 @@ public class UserService {
 		return userRepository.findAll();
 	}
 	
-	public Iterable<User> findAllSortByBirthDate() {
+	public List<User> findAllSortByBirthDate() {
 		return userRepository.findAll(Sort.by(Sort.Direction.ASC, "userBirthDate"));
 		
 	}
-	public Iterable<User> findAllSortByJoiningDate() {
+	public List<User> findAllSortByJoiningDate() {
 		return  userRepository.findAll(Sort.by(Sort.Direction.ASC, "userJoiningDate"));
 	}
 

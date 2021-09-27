@@ -52,23 +52,8 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.UserRestControllerTest (1)">
-    <configuration name="UserRestControllerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-rest-crud-poc2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.demo.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.demo.controller" />
-      <option name="MAIN_CLASS_NAME" value="org.demo.controller.UserRestControllerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserRestControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SpringBootRestCrudApplicationTests">
+    <configuration name="SpringBootRestCrudApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-rest-crud-poc2" />
       <extension name="coverage">
         <pattern>
@@ -77,16 +62,82 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.demo" />
-      <option name="MAIN_CLASS_NAME" value="org.demo.UserRestControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="org.demo.SpringBootRestCrudApplicationTests" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-rest-crud-poc2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="org.demo.service.UserServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.TestFindAllSortByBirthDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-rest-crud-poc2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="org.demo.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="TestFindAllSortByBirthDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.TestfindAllSortByBirthDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-rest-crud-poc2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="org.demo.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="TestfindAllSortByBirthDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.TestfindByUserName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-rest-crud-poc2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.demo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.demo.service" />
+      <option name="MAIN_CLASS_NAME" value="org.demo.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="TestfindByUserName" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserRestControllerTest (1)" />
-        <item itemvalue="JUnit.UserRestControllerTest" />
+        <item itemvalue="JUnit.SpringBootRestCrudApplicationTests" />
+        <item itemvalue="JUnit.UserServiceTest.TestFindAllSortByBirthDate" />
+        <item itemvalue="JUnit.UserServiceTest.TestfindAllSortByBirthDate" />
+        <item itemvalue="JUnit.UserServiceTest.TestfindByUserName" />
+        <item itemvalue="JUnit.UserServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -128,17 +179,84 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1631719248665" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1632740296803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1632740296803" />
+    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1632738443291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1632738443291" />
+    <state width="444" height="466" key="DebuggerActiveHint" timestamp="1632738420656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="444" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1632738420656" />
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom" timestamp="1632740515374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1632740515374" />
+    <state width="1323" height="198" key="GridCell.Tab.0.center" timestamp="1632740515374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1632740515374" />
+    <state width="1323" height="198" key="GridCell.Tab.0.left" timestamp="1632740515374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1632740515374" />
+    <state width="1323" height="198" key="GridCell.Tab.0.right" timestamp="1632740515374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="198" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1632740515374" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1632738473087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1632738473087" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1632738473087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1632738473087" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1632738473087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1632738473087" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1632738473087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1632738473087" />
     <state x="499" y="141" width="587" height="445" key="chooseDestDirectoryDialog" timestamp="1632223543839">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="499" y="141" width="587" height="445" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1632223543839" />
-    <state x="389" y="86" width="587" height="556" key="find.popup" timestamp="1631719394386">
+    <state x="389" y="86" width="587" height="556" key="find.popup" timestamp="1632737308135">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="86" width="587" height="556" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1631719394386" />
+    <state x="389" y="86" width="587" height="556" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1632737308135" />
     <state x="65" y="24" key="new project wizard" timestamp="1632222871808">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1632222871808" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1632739022230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1632739022230" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-rest-crud-poc2/src/test/java/org/demo/service/UserServiceTest.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/support_app$UserServiceTest_TestfindByUserName.ic" NAME="UserServiceTest.TestfindByUserName Coverage Results" MODIFIED="1632738664051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.demo.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/support_app$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1632738475539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.demo.service.*</FILTER>
+    </SUITE>
   </component>
 </project>
