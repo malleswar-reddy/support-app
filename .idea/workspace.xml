@@ -64,26 +64,13 @@
       <recent name="org.springboot.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpringBootSequirityApplication (1)">
-    <configuration name="SpringBootSequirityApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SpringBootSequirityApplication">
+    <configuration name="SpringBootSequirityApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.springboot.SpringBootSequirityApplication" />
       <module name="SpringBootSequirityJwt" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.springboot.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringBootSequirityApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="springsequirity.SpringBootSequirityApplication" />
-      <module name="SpringBootSequirityJwt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="springsequirity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,9 +125,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringBootRestCrudApplicationTests" />
+      <item itemvalue="JUnit.UserServiceTest.TestFindAllSortByBirthDate" />
+      <item itemvalue="JUnit.UserServiceTest.TestfindAllSortByBirthDate" />
+      <item itemvalue="Application.SpringBootSequirityApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpringBootSequirityApplication (1)" />
         <item itemvalue="Application.SpringBootSequirityApplication" />
         <item itemvalue="JUnit.SpringBootRestCrudApplicationTests" />
         <item itemvalue="JUnit.UserServiceTest.TestFindAllSortByBirthDate" />
@@ -186,6 +178,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1631719248665" />
+    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633051849480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1633051849480" />
     <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1632740296803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
