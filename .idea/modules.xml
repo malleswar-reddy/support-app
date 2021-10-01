@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-security/Spring-security.iml" filepath="$PROJECT_DIR$/Spring-security/Spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootSequirityJwt/SpringBootSequirityJwt.iml" filepath="$PROJECT_DIR$/SpringBootSequirityJwt/SpringBootSequirityJwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-rest-crud-poc2/spring-boot-rest-crud-poc2.iml" filepath="$PROJECT_DIR$/spring-boot-rest-crud-poc2/spring-boot-rest-crud-poc2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/support-app.iml" filepath="$PROJECT_DIR$/.idea/support-app.iml" />
     </modules>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Spring-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBootSequirityJwt/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-rest-crud-poc2/src/main/java" charset="UTF-8" />
   </component>
 </project>
