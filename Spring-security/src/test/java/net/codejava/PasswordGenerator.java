@@ -6,10 +6,16 @@ public class PasswordGenerator {
 
 	public static void main(String[] args) {
 		BCryptPasswordEncoder encoder = new BCryptPasswordEncoder();
-		String rawPassword = "admin";
+		String rawPassword = "sub123";
 		String encodedPassword = encoder.encode(rawPassword);
 		
-		System.out.println(encodedPassword);
+		/*System.out.println(encodedPassword);*/
+
+
+		BCryptPasswordEncoder
+
+
+
 	}
 
 }
